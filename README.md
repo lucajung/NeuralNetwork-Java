@@ -1,5 +1,5 @@
 # NeuralNetwork
-A simple neural network.<br>
+A simple neural network written in Java.<br>
 This repository contains a neural network with backpropagation.
 
 Some sample results
